@@ -2,7 +2,9 @@
 // @name         SillyGlamourBridge
 // @namespace    SillyGlamourBridge
 // @version      0.3.1
+// @author       u86cd
 // @description  為SillyToolbox準備的幻化複製腳本
+// @license      MIT
 // @match        https://ffxiv.eorzeacollection.com/glamour/*
 // @match        https://ff14risingstones.web.sdo.com/pc/index.html*
 // @grant        GM_setClipboard
